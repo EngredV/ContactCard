@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ContactCard/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ContactCard/static/js/main.26800ac6.chunk.js",
+    "main.js.map": "/ContactCard/static/js/main.26800ac6.chunk.js.map",
+    "runtime-main.js": "/ContactCard/static/js/runtime-main.8ce456a6.js",
+    "runtime-main.js.map": "/ContactCard/static/js/runtime-main.8ce456a6.js.map",
+    "static/js/2.a91ee649.chunk.js": "/ContactCard/static/js/2.a91ee649.chunk.js",
+    "static/js/2.a91ee649.chunk.js.map": "/ContactCard/static/js/2.a91ee649.chunk.js.map",
+    "static/js/3.fe479d0c.chunk.js": "/ContactCard/static/js/3.fe479d0c.chunk.js",
+    "static/js/3.fe479d0c.chunk.js.map": "/ContactCard/static/js/3.fe479d0c.chunk.js.map",
+    "index.html": "/ContactCard/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ContactCard/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a91ee649.chunk.js.LICENSE.txt": "/ContactCard/static/js/2.a91ee649.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ContactCard/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce456a6.js",
+    "static/js/2.a91ee649.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.26800ac6.chunk.js"
+  ]
+}
