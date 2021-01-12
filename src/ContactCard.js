@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 class ContactCard extends Component {
 	 render(){
 	    return (
-	        <div>
+	        <div id="cc">
 	            <h1>{this.props.name}</h1>
 	            <ul>
 	                <li>mobile: {this.props.mobile}</li>

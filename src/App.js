@@ -6,7 +6,7 @@ import './App.css';
 class App extends Component {
   render() {
       return (
-          <>
+          <div className="container">
           <ContactCard
               name="Ashley Rivers"
               mobile="5168987415"
@@ -25,7 +25,7 @@ class App extends Component {
               work="2127086414"
               email="Robert.Jones@gmail.com"
               />
-  </>        
+  </div>        
 );
   }
 }
